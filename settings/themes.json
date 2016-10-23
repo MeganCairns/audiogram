@@ -1,4 +1,4 @@
-{
+]{
   "default": {
     "width": 1280,
     "height": 720,
@@ -16,25 +16,25 @@
     "captionRight": 1080
   },
   "Basic": {
-    "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
+    "backgroundColor": "#EBEBEB",
+    "foregroundColor": "#00AFBA"
   },
   "Neon": {
-    "backgroundColor": "#556270",
-    "foregroundColor": "#c7f464"
+    "backgroundColor": "#323946",
+    "foregroundColor": "#EBEBEB"
   },
   "Three colors": {
-    "backgroundColor": "#eee",
-    "captionColor": "#515151",
-    "waveColor": "#00b4ff"
+    "backgroundColor": "#EBEBEB",
+    "captionColor": "#323946",
+    "waveColor": "#00AFBA"
   },
   "Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
+    "backgroundImage": "1-MugP-DVdRP8_tKpeZnuTHg.jpeg",
+    "foregroundColor": "#EBEBEB",
     "waveBottom": 660,
     "waveTop": 320
   },
@@ -52,13 +52,13 @@
     "captionTop": null
   },
   "Line": {
-    "backgroundColor": "#edc951",
-    "foregroundColor": "#00a0b0",
+    "backgroundColor": "#44597F",
+    "foregroundColor": "#EBEBEB",
     "pattern": "line"
   },
   "Curve": {
-    "backgroundColor": "#00a0b0",
-    "foregroundColor": "#edc951",
+    "backgroundColor": "#E51C24",
+    "foregroundColor": "#EBEBEB",
     "pattern": "curve"
   },
   "Bricks": {
@@ -100,6 +100,5 @@
     "captionLeft": 20,
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
+    "backgroundImage": "ezraklein.jpeg"
   }
-}
