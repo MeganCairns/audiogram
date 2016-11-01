@@ -16,25 +16,25 @@
     "captionRight": 1080
   },
   "Basic": {
-    "backgroundColor": "#eee",
-    "foregroundColor": "#de1e3d"
+    "backgroundColor": "#ACE8E8",
+    "foregroundColor": "#323946"
   },
-  "Neon": {
-    "backgroundColor": "#556270",
-    "foregroundColor": "#c7f464"
+  "Basic 2": {
+    "backgroundColor": "#EBEBEBC",
+    "foregroundColor": "#323946"
   },
   "Three colors": {
-    "backgroundColor": "#eee",
-    "captionColor": "#515151",
-    "waveColor": "#00b4ff"
+    "backgroundColor": "#ACE8E8",
+    "captionColor": "#323946",
+    "waveColor": "#EBEBEBC"
   },
   "Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
-    "foregroundColor": "#fc0",
+    "backgroundImage": "cwt1.png",
+    "foregroundColor": "#323946",
     "waveBottom": 660,
     "waveTop": 320
   },
