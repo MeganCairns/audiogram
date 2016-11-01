@@ -16,6 +16,7 @@
     "captionRight": 1080
   },
   "Basic": {
+<<<<<<< HEAD
     "backgroundColor": "#EBEBEB",
     "foregroundColor": "#00AFBA"
   },
@@ -27,14 +28,32 @@
     "backgroundColor": "#EBEBEB",
     "captionColor": "#323946",
     "waveColor": "#00AFBA"
+=======
+    "backgroundColor": "#ACE8E8",
+    "foregroundColor": "#323946"
+  },
+  "Basic 2": {
+    "backgroundColor": "#EBEBEBC",
+    "foregroundColor": "#323946"
+  },
+  "Three colors": {
+    "backgroundColor": "#ACE8E8",
+    "captionColor": "#323946",
+    "waveColor": "#EBEBEBC"
+>>>>>>> origin/master
   },
   "Background image with top right text": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
+<<<<<<< HEAD
     "backgroundImage": "1-MugP-DVdRP8_tKpeZnuTHg.jpeg",
     "foregroundColor": "#EBEBEB",
+=======
+    "backgroundImage": "cwt1.png",
+    "foregroundColor": "#323946",
+>>>>>>> origin/master
     "waveBottom": 660,
     "waveTop": 320
   },
